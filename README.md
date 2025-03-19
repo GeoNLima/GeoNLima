@@ -43,7 +43,7 @@ I'm actively seeking opportunities to grow in the field and would love to connec
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Cypress](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40thiago-castilho%2Fintrodu%25C3%25A7%25C3%25A3o-ao-cypress-um-guia-passo-a-passo-para-testes-de-aplica%25C3%25A7%25C3%25B5es-web-6be295b0557&psig=AOvVaw3bksqbLiI4Vv2wt6xNOYQg&ust=1742434500446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDAhr-AlYwDFQAAAAAdAAAAABAR)
+![Cypress](https://img.shields.io/badge/cypress-3670A0?style=for-the-badge&logo=cypress&logoColor=ffdd54)
 
 ##  Tools 🛠
 
