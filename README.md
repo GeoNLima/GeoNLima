@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D9900&vCenter=true&random=false&width=435&lines=HELLO%2C+DEVS!++%3D%5D)](https://git.io/typing-svg)
 
-😊! I'm 47 years old and I'm changing my life, studying 🎓 and learning new skills 📚 to start in a new carreer as a developer. I'm looking for a new job 🔭, even without experience.
+😊 I’m an aspiring QA engineer with a strong commitment to quality, precision, and continuous improvement. Over the past year, I’ve immersed myself in IT studies, completing courses in front-end and back-end development, and I'm currently pursuing a degree in Software Engineering. To further strengthen my skills, I’m also participating in a QA mentoring program, gaining hands-on knowledge and insights into real-world practices. My primary focus now is building practical experience in quality assurance, where I can apply my skills in testing, problem-solving, and ensuring product excellence.
+
+My background in administration and education has equipped me with valuable skills—attention to detail, effective communication, and structured thinking—that naturally align with the demands of QA work. I'm excited about this transition and eager to contribute to teams that value quality-driven development.
+
+I'm actively seeking opportunities to grow in the field and would love to connect with others passionate about software quality and innovation.
 
 ## 🤝 Soft Skills
 
@@ -38,6 +42,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Cypress](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40thiago-castilho%2Fintrodu%25C3%25A7%25C3%25A3o-ao-cypress-um-guia-passo-a-passo-para-testes-de-aplica%25C3%25A7%25C3%25B5es-web-6be295b0557&psig=AOvVaw3bksqbLiI4Vv2wt6xNOYQg&ust=1742434500446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDAhr-AlYwDFQAAAAAdAAAAABAR)
 
 ##  Tools 🛠
 
