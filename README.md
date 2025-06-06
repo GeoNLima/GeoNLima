@@ -1,6 +1,6 @@
 # Georgea Nascimento Lima
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D9900&vCenter=true&random=false&width=435&lines=HELLO%2C+DEVS!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D9900&vCenter=true&random=false&width=435&lines=HELLO%2C+PEOPLE!++%3D%5D)](https://git.io/typing-svg)
 
 😊 I’m an aspiring QA engineer with a strong commitment to quality, precision, and continuous improvement. Over the past year, I’ve immersed myself in IT studies, completing courses in front-end and back-end development, and I'm currently pursuing a degree in Software Engineering. To further strengthen my skills, I’m also participating in a QA mentoring program, gaining hands-on knowledge and insights into real-world practices. My primary focus now is building practical experience in quality assurance, where I can apply my skills in testing, problem-solving, and ensuring product excellence.
 
